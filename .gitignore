@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+dry_run_results/
+REPORT_DRY_RUN.md
